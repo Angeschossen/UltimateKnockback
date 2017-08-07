@@ -1,0 +1,10 @@
+# MySQL username
+username: minecraft
+# Password
+password: mypassword
+# Databasename
+database: ultimateKnockback
+# Database host address
+host: 127.0.0.1
+# Port
+port: '3306'
