@@ -1,0 +1,9 @@
+# Define killstreaks
+# Type: String
+Killstreaks: 5,10,15,25,25,30,40,45,50
+# Define map time
+# Type: Long
+Time: 1000
+# Set deathheight
+# Type: Integer
+DeathHeight: 87
