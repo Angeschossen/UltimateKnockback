@@ -1,9 +1,20 @@
 # Define killstreaks
 # Type: String
-Killstreaks: 5,10,15,25,25,30,40,45,50
+killstreaks: 5,10,15,25,25,30,40,45,50
 # Define map time
 # Type: Long
-Time: 1000
+time: 1000
 # Set deathheight
 # Type: Integer
-DeathHeight: 87
+deathheight: 87
+# Set mapchange interval
+# Value in minutes
+# Type: Integer
+mapchange: 6
+# Set jumpboost cooldown
+# s for seconds
+# m for minutes
+# h for hours
+# Set this to 0 if you dont want this and reload the server
+# Type: Integer
+jumpboost: 10
