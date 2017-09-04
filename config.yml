@@ -18,3 +18,15 @@ mapchange: 6
 # Set this to 0 if you dont want this and reload the server
 # Type: Integer
 jumpboost: 10
+# If x ammount of players online
+# enable random respawn
+# Set this to 0 if you dont want this
+# Type: Integer
+randomrespawn: 8
+# Set random chestspawn interval
+# Set this to 0 if you dont want this
+# s for seconds
+# m for minutes
+# h for hours
+# Type: Integer
+chestspawn: 3m
